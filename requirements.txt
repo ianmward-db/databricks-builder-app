@@ -1,7 +1,7 @@
 alembic==1.18.4
 altair==5.5.0
 annotated-types==0.7.0
-anthropic==0.87.0
+anthropic==0.86.0
 anyio==4.12.1
 attrs==25.4.0
 blinker==1.9.0
@@ -16,9 +16,7 @@ colorama==0.4.6
 contourpy==1.3.3
 cryptography==46.0.6
 cycler==0.12.1
-databricks-agents==1.9.3
 databricks-sdk==0.101.0
-databricks-sql-connector==3.4.0
 dataclasses-json==0.6.7
 distro==1.9.0
 dnspython==2.8.0
@@ -55,19 +53,18 @@ markdown-it-py==4.0.0
 markupsafe==3.0.2
 marshmallow==3.26.2
 matplotlib==3.10.8
-mcp==1.23.0
+mcp==1.24.0
 mdurl==0.1.2
 mlflow-skinny==3.10.1
 mlflow-tracing==3.10.1
 mlflow==3.10.1
 mypy-extensions==1.1.0
 narwhals==2.17.0
-nest-asyncio==1.6.0
 numpy==1.26.4
 oauthlib==3.3.1
 openai==2.29.0
 opentelemetry-api==1.40.0
-opentelemetry-proto==1.27.0
+opentelemetry-proto==1.40.0
 opentelemetry-sdk==1.40.0
 opentelemetry-semantic-conventions==0.61b0
 packaging==24.2
@@ -76,9 +73,9 @@ pillow==12.1.1
 platformdirs==4.9.4
 plotly==5.24.1
 pluggy==1.6.0
-prettytable==3.17.0
 protobuf==6.33.5
 psycopg-binary==3.3.3
+psycopg2-binary==2.9.11
 psycopg==3.3.3
 pyarrow==17.0.0
 pyasn1-modules==0.4.2
@@ -100,7 +97,6 @@ referencing==0.37.0
 regex==2026.2.28
 requests-toolbelt==1.0.0
 requests==2.33.0
-retrying==1.4.2
 rich==13.9.4
 rpds-py==0.30.0
 rsa==4.9.1
@@ -115,7 +111,7 @@ sse-starlette==3.3.3
 starlette==0.52.1
 streamlit==1.54.0
 tenacity==8.5.0
-thrift==0.20.0
+toml==0.10.2
 tomlkit==0.12.0
 tornado==6.5.5
 tqdm==4.67.3
@@ -128,7 +124,7 @@ uvicorn==0.42.0
 uvloop==0.22.1
 watchdog==4.0.2
 watchfiles==1.1.1
-websockets==12.0
+websockets==15.0.1
 werkzeug==3.1.6
 xxhash==3.6.0
 zipp==3.23.0
